@@ -1,7 +1,5 @@
 <<<<<<< HEAD
-# we-are-teaching-Ara 
+# Վարդուհի մեկ մեկ տնային կուդաս ընձի 
 =======
-"# we-are-teaching-Ara" 
-#barev
-#vard yly tes kereva sik
+"Շնորհակալություն ուշադրության համար"
 >>>>>>> eb0d0f9d1aec347d7dcf37da9daba0556fe42171
